@@ -10,7 +10,7 @@ setup(
         "pyjwt==1.7.1",
         "fastapi==0.8.0",
         "zenroom==0.1.2",
-        "uvicorn==0.4.6",
+        "uvicorn==0.6.1",
         "inflect==2.1.0",
         "environs==4.1.0",
         "requests==2.21.0",
