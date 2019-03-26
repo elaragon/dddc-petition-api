@@ -9,7 +9,7 @@ setup(
     install_requires=[
         "bunch==1.0.1",
         "pyjwt==1.7.1",
-        "fastapi==0.8.0",
+        "fastapi==0.10.1",
         "zenroom==0.1.2",
         "uvicorn==0.4.6",
         "inflect==2.1.0",
